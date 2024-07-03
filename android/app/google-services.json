@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519679475979",
+    "project_id": "loaderteach-83ccd",
+    "storage_bucket": "loaderteach-83ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519679475979:android:d5484751c9908b2428220e",
+        "android_client_info": {
+          "package_name": "coin.loader.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojwpeQkhNYQsTChK_faPPa0YPlGxWEVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
